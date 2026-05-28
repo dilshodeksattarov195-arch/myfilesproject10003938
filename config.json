@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsave",
+        "uuid": 16256064,
+        "checksum": "7kh073"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
